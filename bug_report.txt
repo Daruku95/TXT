@@ -1,0 +1,8 @@
+Bug Report
+ID:01;
+Summary:Страница авторизации виснет при попытке ввести пустое значение в поле пароля;
+Project:VK;
+Version:12.14.4;
+Severity:Major;
+Priority:Medium;
+Status:Open.
